@@ -1,0 +1,6 @@
+name = "ansari-sieve-identity"
+version = "0.1.0"
+defaultTargets = ["AnsariSieveIdentity"]
+
+[[lean_lib]]
+name = "AnsariSieveIdentity"

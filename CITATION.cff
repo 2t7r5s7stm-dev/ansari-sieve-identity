@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript when referring to this counterfamily."
+type: software
+license: "Apache-2.0"
+title: "Lean companion for An Infinite Counterfamily to a Set Identity in a Recursive Collatz Sieve"
+authors:
+  - family-names: "Dunn"
+    given-names: "James E."
+    affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0009-0005-2679-6574"
+abstract: "Lean 4.33.1 formalization of the infinite counterfamily 75 + 108t to the displayed n = 2 set identity in Ansari's recursive Collatz sieve. No claim about the truth of the Collatz conjecture is made."
+preferred-citation:
+  type: unpublished
+  title: "An Infinite Counterfamily to a Set Identity in a Recursive Collatz Sieve"
+  authors:
+    - family-names: "Dunn"
+      given-names: "James E."
+      affiliation: "Independent Researcher"
+      orcid: "https://orcid.org/0009-0005-2679-6574"
+  year: 2026
+  notes: "Manuscript dated 6 October 2026; unpublished draft."

@@ -1,0 +1,8 @@
+'AdmissionMethodReview.ExternalSieve.missing_family_in_F2' depends on axioms: [propext, Quot.sound]
+'AdmissionMethodReview.ExternalSieve.missing_family_in_Fprime2' depends on axioms: [propext, Quot.sound]
+'AdmissionMethodReview.ExternalSieve.missing_family_not_Aprime2' depends on axioms: [propext, Quot.sound]
+'AdmissionMethodReview.ExternalSieve.missing_family_not_F3' depends on axioms: [propext, Quot.sound]
+'AdmissionMethodReview.ExternalSieve.counterfamily' depends on axioms: [propext, Quot.sound]
+'AdmissionMethodReview.ExternalSieve.counterfamily_injective' depends on axioms: [propext, Quot.sound]
+'AdmissionMethodReview.ExternalSieve.counterfamily_unbounded' depends on axioms: [propext, Quot.sound]
+'AdmissionMethodReview.ExternalSieve.claimed_identity_false' depends on axioms: [propext, Quot.sound]

@@ -1,0 +1,12 @@
+info: ansari-sieve-identity: no previous manifest, creating one from scratch
+info: toolchain not updated; already up-to-date
+ℹ [2/3] Built AnsariSieveIdentity (376ms)
+info: AnsariSieveIdentity.lean:80:0: 'AdmissionMethodReview.ExternalSieve.missing_family_in_F2' depends on axioms: [propext, Quot.sound]
+info: AnsariSieveIdentity.lean:81:0: 'AdmissionMethodReview.ExternalSieve.missing_family_in_Fprime2' depends on axioms: [propext, Quot.sound]
+info: AnsariSieveIdentity.lean:82:0: 'AdmissionMethodReview.ExternalSieve.missing_family_not_Aprime2' depends on axioms: [propext, Quot.sound]
+info: AnsariSieveIdentity.lean:83:0: 'AdmissionMethodReview.ExternalSieve.missing_family_not_F3' depends on axioms: [propext, Quot.sound]
+info: AnsariSieveIdentity.lean:84:0: 'AdmissionMethodReview.ExternalSieve.counterfamily' depends on axioms: [propext, Quot.sound]
+info: AnsariSieveIdentity.lean:85:0: 'AdmissionMethodReview.ExternalSieve.counterfamily_injective' depends on axioms: [propext, Quot.sound]
+info: AnsariSieveIdentity.lean:86:0: 'AdmissionMethodReview.ExternalSieve.counterfamily_unbounded' depends on axioms: [propext, Quot.sound]
+info: AnsariSieveIdentity.lean:87:0: 'AdmissionMethodReview.ExternalSieve.claimed_identity_false' depends on axioms: [propext, Quot.sound]
+Build completed successfully (3 jobs).
