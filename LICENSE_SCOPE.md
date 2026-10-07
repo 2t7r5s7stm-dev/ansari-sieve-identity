@@ -7,4 +7,4 @@ Copyright 2026 James E. Dunn, for original material to which the author holds ri
 - Third-party materials retain their own licenses and attribution. Lean itself is an external dependency and is not redistributed or relicensed by this package.
 - These grants cover only rights the author holds. References to other researchers' work do not relicense that work.
 
-The author approved this split on 7 October 2026. Applying these licenses does not itself publish the repository or Zenodo deposit.
+The author approved this split on 7 October 2026.

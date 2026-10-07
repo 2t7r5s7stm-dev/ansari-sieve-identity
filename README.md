@@ -10,7 +10,7 @@ The proof of Lemma 3.1 in Ansari's recursive Collatz sieve uses a displayed set 
 
 - `paper/`: the reviewed manuscript dated 6 October 2026, in PDF and editable DOCX formats.
 - `lean/`: the independently packaged Lean companion, pinned toolchain, build instructions, verification report, checksums, and historical build logs.
-- `CITATION.cff`: draft citation metadata. No DOI has been assigned to this work.
+- `CITATION.cff`: citation metadata. No DOI has been assigned to this work.
 
 ## Check the companion
 
@@ -28,4 +28,4 @@ The encoded definitions were matched to the publisher PDF by human inspection. L
 
 ## Status
 
-Private preparation copy. The manuscript and companion have not been published by this preparation step. The author approved CC BY 4.0 for the manuscript and Apache-2.0 for the original software and software documentation. See `LICENSE_SCOPE.md` for scope.
+The manuscript and Lean companion are publicly available in this repository. The author approved CC BY 4.0 for the manuscript and Apache-2.0 for the original software and software documentation. See `LICENSE_SCOPE.md` for scope.
